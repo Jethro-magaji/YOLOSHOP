@@ -1,0 +1,19 @@
+{
+    "name": "YoloShop",
+    "short_name": "Yolo",
+    "start_url": "index.html",
+    "display": "standalone",
+    "background_color": "#fff",
+    "description": "YoloShop app.",
+    "icons": [{
+            "src": "images/icon-512x512.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        },
+        {
+            "src": "images/yolo-192.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        }
+    ]
+}
